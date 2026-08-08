@@ -2,9 +2,7 @@
 
 **Computer Science student · Junior Developer · Currently Debugging My Life**
 
-I'm a programming student focused on becoming a better software developer by building real applications and understanding how they work.
-
-I enjoy solving problems for people and building useful software that makes their lives easier.
+Programming student exploring how software works under the hood while building things that hopefully make someone’s life slightly less annoying.
 
 Currently I'm particularly interested in:
 
