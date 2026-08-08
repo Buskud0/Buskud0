@@ -73,7 +73,7 @@ Structuring a Java application around an external service
 
 I'm currently working toward a **junior software development / internship opportunity** where I can contribute to real projects, learn from experienced developers and improve through practical work.
 
-I'm especially interested in opportunities involving **building practical software products** **software architecture** **game development**.
+I'm especially interested in opportunities involving **building practical software products**, **designing software architecture**, **automating repetitive tasks**.
 
 ---
 
