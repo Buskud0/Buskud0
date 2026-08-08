@@ -4,7 +4,7 @@
 
 Exploring how software works under the hood while building things that make annoying problems a little more manageable.
 
-Currently I'm particularly interested in:
+**Currently I'm particularly interested in:**
 
 * 🖥️ Desktop and user-facing applications
 * ⚙️ Software architecture and writing maintainable code
