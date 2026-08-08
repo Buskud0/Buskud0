@@ -1,7 +1,6 @@
 # Ah, you found me
-## Currently Debugging My Life.
 
-**Computer Science student · Junior Developer · Building things to learn**
+**Computer Science student · Junior Developer · Currently Debugging My Life**
 
 I'm a programming student focused on becoming a better software developer by building real applications and understanding how they work.
 
