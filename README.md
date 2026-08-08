@@ -1,4 +1,5 @@
-# Hi, I'm Buskud
+# Ah, you found me
+## Currently Debugging My Life.
 
 **Computer Science student · Junior Developer · Building things to learn**
 
