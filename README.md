@@ -42,7 +42,7 @@ A desktop application that lets you select text and instantly translate it from 
 
 A game project built around a growing zombie horde, weapons, maps, entities and game systems.
 
-This project has been especially useful for learning about:
+**This project has been especially useful for learning about:**
 
 * Organizing a larger codebase
 * Learning how to effectively use AI-assisted coding
