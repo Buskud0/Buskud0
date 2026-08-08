@@ -2,7 +2,7 @@
 
 **Computer Science student · Junior Developer · Currently Debugging My Life**
 
-Currently exploring how software works under the hood while building things that hopefully make someone’s life slightly less annoying.
+Exploring how software works under the hood while building things that make annoying problems a little more manageable.
 
 Currently I'm particularly interested in:
 
