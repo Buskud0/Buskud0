@@ -1,6 +1,6 @@
 # Ah, you found me
 
-**Computer Science student · Junior Developer · Currently Debugging My Life**
+**Computer Science student · Currently Debugging My Life**
 
 Exploring how software works under the hood while building things that make annoying problems a little more manageable.
 
