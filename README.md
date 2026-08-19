@@ -9,10 +9,7 @@ Exploring how software works under the hood while building things that make anno
 * 🖥️ Desktop and user-facing applications
 * ⚙️ Software architecture and writing maintainable code
 * 👥 Building software around real user needs
-* 🚀 Taking projects from an idea to a finished product
-* 🔄 Automation and making repetitive tasks simpler
 * 🎮 Game development
-* 🤖 Using AI as a development tool
 * 🔍 Exploring how software works under the hood
 
 ## 🚀 Projects
