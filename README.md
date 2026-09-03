@@ -1,6 +1,6 @@
 # Ah, you found me
 
-# Computer Science Student
+Computer Science Student
 
 Vilnius TECH · C++ · Java · Python · TypeScript
 
